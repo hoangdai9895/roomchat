@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/roomchat/precache-manifest.9115a4695f6391f30fb958fc872750cb.js"
+  "/roomchat/precache-manifest.9657ceb4b0c6ff3f07a7b3c42fdff770.js"
 );
 
 workbox.clientsClaim();

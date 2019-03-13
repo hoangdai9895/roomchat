@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/roomchat/static/js/runtime~main.f91fd744.js"
   },
   {
-    "revision": "5bae8b49a9510b4c502e",
+    "revision": "6c8d2b830625cab5166b",
     "url": "/roomchat/static/js/main.d1e6f60f.chunk.js"
   },
   {
@@ -12,11 +12,11 @@ self.__precacheManifest = [
     "url": "/roomchat/static/js/2.08ecf4ad.chunk.js"
   },
   {
-    "revision": "5bae8b49a9510b4c502e",
-    "url": "/roomchat/static/css/main.2a31add6.chunk.css"
+    "revision": "6c8d2b830625cab5166b",
+    "url": "/roomchat/static/css/main.70d53545.chunk.css"
   },
   {
-    "revision": "0825a9516b1967ff29210de8a918b243",
+    "revision": "9855986437140dfc7eabb7194b32624c",
     "url": "/roomchat/index.html"
   }
 ];
