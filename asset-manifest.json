@@ -1,5 +1,5 @@
 {
-  "main.css": "/roomchat/static/css/main.70d53545.chunk.css",
+  "main.css": "/roomchat/static/css/main.3fb520fa.chunk.css",
   "main.js": "/roomchat/static/js/main.d1e6f60f.chunk.js",
   "main.js.map": "/roomchat/static/js/main.d1e6f60f.chunk.js.map",
   "runtime~main.js": "/roomchat/static/js/runtime~main.f91fd744.js",
@@ -7,7 +7,7 @@
   "static/js/2.08ecf4ad.chunk.js": "/roomchat/static/js/2.08ecf4ad.chunk.js",
   "static/js/2.08ecf4ad.chunk.js.map": "/roomchat/static/js/2.08ecf4ad.chunk.js.map",
   "index.html": "/roomchat/index.html",
-  "precache-manifest.9657ceb4b0c6ff3f07a7b3c42fdff770.js": "/roomchat/precache-manifest.9657ceb4b0c6ff3f07a7b3c42fdff770.js",
+  "precache-manifest.05d1b84d23912b3620485944c01b5f9d.js": "/roomchat/precache-manifest.05d1b84d23912b3620485944c01b5f9d.js",
   "service-worker.js": "/roomchat/service-worker.js",
-  "static/css/main.70d53545.chunk.css.map": "/roomchat/static/css/main.70d53545.chunk.css.map"
+  "static/css/main.3fb520fa.chunk.css.map": "/roomchat/static/css/main.3fb520fa.chunk.css.map"
 }
