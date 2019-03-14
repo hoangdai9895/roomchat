@@ -330,18 +330,27 @@
     /* mobile */
     
     @media (max-width:768px) {
+        .messages {
+            height: calc(100% - 84px);
+        }
+        .chat_window {
+            width: calc(100% - 10px);
+            max-height: calc(100% - 20px);
+        }
         .content {
             width: 100%;
-            height: 74%;
+            height: 75%;
         }
         .menu {
             width: 100%;
-            height: unset;
+            height: 25%;
             border-bottom: 1px solid #ddd;
         }
         ul.user {
             padding: 0 0 0 20px;
             margin: 10px 0;
+            max-height: 190px;
+            overflow-y: scroll;
         }
         ul.user p {
             margin: 10px 0;
